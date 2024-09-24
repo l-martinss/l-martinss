@@ -2,9 +2,9 @@
 - 👀 Estou interessado em progamação
 - 🌱 Atualmente estou aprendendo desenvolvimento de sistema 
 - 💞️ Procuro colaborar em criar sites,jogos,desenvolver Software
-- 📫 Como entrar em contato comigo pelo gmail
-- 😄 Pronomes: ele
-- ⚡ Curiosidade: ...
+- 📫 lucas.vieira16@escola.pr.gov.br
+- 😄 Pronomes: ele/dele
+
 
 <!---
 l-martinss/l-martinss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
