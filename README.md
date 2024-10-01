@@ -1,7 +1,7 @@
 - 👋 Olá, meu nome é @l-martinss
 - 👀 Estou interessado em progamação
 - 🌱 Atualmente estou aprendendo desenvolvimento de sistema 
-- 💞️ Procuro colaborar em criar sites,jogos,desenvolver Software
+- 💞️ Procuro escontrar alguma mulher,mais velha de preferencia que me trate bem, fassa tudo oque eu quero, seja safadinha e tbm rica  
 - 📫 lucas.vieira16@escola.pr.gov.br
 - 😄 Pronomes: ele/dele
 
